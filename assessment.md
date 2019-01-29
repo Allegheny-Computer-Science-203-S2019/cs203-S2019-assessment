@@ -17,27 +17,32 @@
 * Linting Python programs with `pylint` and `flake8`
 * Formatting Python programs with `black`
 * Basic testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Advanced testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Calculating code coverage of a `pytest` test suite
+  * N = Did not utilize `pytest` for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Reporting code coverage through an online provider
+  * N = Did not utilize online provider for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Student did not use docstrings
-  * I = Student incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/methods effect as a command
-  * G = Student successfully added docstring with useful description, but is lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student did not use any appropriate naming styles
-  * I = Student used inappropriate naming styles that are either not prescriptive or descriptive
-  * A = Student used appropriate naming styles that are not entirely conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student did not use exception handling
-  * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions, but clause does not function
-  * G = Student correctly codes exception handling, but clause doesn't fully execute
-  * E = Student correctly codes exception handling with clause being perfectly executed
 * Refactoring a Python program to improve its characteristics
 * Debugging Python programs using logging and other methods
 * Adopting and using appropriate Python language constructs
