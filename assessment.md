@@ -181,7 +181,7 @@ when creating python programs.
   * G = Performs a release through Travis CI with signed commits
   * E = Performs a release through Travis CI with signed commits
     and signed deliverables (e.g md5 hash)
-* Create third-party integrations with Travis CI (e.g., [codecov.io])
+* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io))
   * N = No incorporation of third party integrations
   * I = Third-party integrations were only partially implemented
   * A = A few third-party integrations were implemented
