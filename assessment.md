@@ -147,12 +147,12 @@ when creating python programs.
   * E = Merging branches with well-documented, detailed code and
     extensive team communication
 * Creating and reviewing a pull request
-  * N = No PR made
+  * N = No PR(Pull Request) made
   * I = Does not tag the related issues it is trying to close with poor description
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
   * G = Tags any related issues it is trying to close, describes most proposed changes,
-    discusses results of PR with Travis CI
+    discusses results of PR with  CI
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
@@ -167,7 +167,7 @@ when creating python programs.
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
   * I = Sets up and configures Travis CI which performs no checks
-  * A = Sets up and configures Travis CI without performing checks on less
+  * A = Sets up and configures Travis CI that performs checks on less
     relevant project deliverables
   * G = Sets up and configures Travis CI to perform checks on the most relevant
     project deliverables
@@ -181,7 +181,7 @@ when creating python programs.
   * G = Performs a release through Travis CI with signed commits
   * E = Performs a release through Travis CI with signed commits
     and signed deliverables (e.g md5 hash)
-* Create third-party integrations with Travis CI (e.g., codecov.io)
+* Create third-party integrations with Travis CI (e.g., [codecov.io])
   * N = No incorporation of third party integrations
   * I = Third-party integrations were only partially implemented
   * A = A few third-party integrations were implemented
