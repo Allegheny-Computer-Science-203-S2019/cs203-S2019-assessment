@@ -151,8 +151,8 @@ when creating python programs.
   * I = Does not tag the related issues it is trying to close with poor description
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
-  * G = Tags any related issues it is trying to close, describes most proposed changes,
-    discusses them with team but may not pass Travis
+  * G = Tags any related issues it is trying to close, describes most proposed
+changes and passes Travis CI
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
