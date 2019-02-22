@@ -129,23 +129,23 @@ when creating python programs.
     containing multiple consistent and descriptive commits
 * Creating and using a repository branch
   * N = Did not create or utilize branches
-  * I = Create unclear branches
-  * A = Create too many poorly named branches
-  * G = Create useful adequately named branches
-  * E = Create useful and descriptive branches
+  * I = Created unclear branches
+  * A = Created too many poorly named branches
+  * G = Created useful adequately named branches
+  * E = Created useful and descriptive branches
 * Creating and using a repository fork
   * N = Did not create or utilize forks
-  * I = Create unclear forks
-  * A = Create too many poorly named forks
-  * G = Create useful adequately named forks
-  * E = Create useful and descriptive forks
+  * I = Created unclear forks
+  * A = Created too many poorly named forks
+  * G = Created useful adequately named forks
+  * E = Created useful and descriptive forks
 * Merging a branch or a fork to another branch or fork
   * N = Not communicating changes before merging branches and forks
-  * I = Merging with minimal communication or merging faulty code
+  * I = Merging with minimal communication or merging defective code
   * A = Communicating changes with the team and reconciling differences
   * G = Merging branches after extensive communication
   * E = Merging branches with well-documented, detailed code and
-    extensive communication
+    extensive team communication
 * Creating and reviewing a pull request
   * N = No PR made
   * I = Does not tag the related issues it is trying to close with poor description
@@ -156,11 +156,11 @@ when creating python programs.
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
-  * N = Commit messages are nonsensical
+  * N = Commit messages do not make sense
   * I = Commit messages are uninformative
   * A = Commit messages are sensible but not descriptive
-  * G = Commit messages are both clear, and moderately descriptive
-  * E = Commit messages are clear, concise and descriptive
+  * G = Commit messages are clear, concise and moderately descriptive
+  * E = Commit messages are clear, concise, and descriptive
 
 ### Continuous Integration with Travis
 
@@ -203,30 +203,33 @@ when creating python programs.
   * A = A few status badges are in the README but are not in an
     appropriate location
   * G = Most relevant status badges are in the README and well located
-  * E = All relevant and many useful status badges are in the README and well located
+  * E = All relevant and many useful status badges are in the README and well
+  located
 
 ### Foundations of Software Engineering
 
 * Requirements engineering
-  * N = No effort to document, define, or maintain requirements present
+  * N = No effort to document, define, or maintain requirements present is
+  evident
   * I = Brief or unspecific documentation, definition, and maintenance given
   * A = Explains what requirements have been specified in enough detail
     to convey the most important information
-  * G = Documentation and definitions are well written and gives other team members
+  * G = Documentation and definitions are well written giving other team members
     an informed idea of the process
-  * E = The software engineer displayed highly detailed, elaborate, and complete
+  * E = Displayed highly detailed, elaborate, and complete
     documentation, definition, and maintenance in the given design process
 * Software architecture
   * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the system
-  * A = There is a blueprint for the software system that lacks completion
+  * A = There is a blueprint for the software system that is not complete
   * G = There is a completed blueprint for the software system
   * E = There is a completed detailed blueprint for all elements of the software
     system including detailed documentation
 * Software design
   * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
-  * A = Some software design is visible to the point where a software solution looks
+  * A = Some software design is visible to the point where a software solution
+  looks
     to be developed soon
   * G = A software solution is created that includes both an algorithm design and
     a high-level architecture design
