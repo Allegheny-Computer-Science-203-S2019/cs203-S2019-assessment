@@ -152,7 +152,7 @@ when creating python programs.
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
   * G = Tags any related issues it is trying to close, describes most proposed changes,
-    discusses results of PR with  CI
+    may not pass Travis
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
@@ -181,7 +181,7 @@ when creating python programs.
   * G = Performs a release through Travis CI with signed commits
   * E = Performs a release through Travis CI with signed commits
     and signed deliverables (e.g md5 hash)
-* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io))
+* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io)
   * N = No incorporation of third party integrations
   * I = Third-party integrations were only partially implemented
   * A = A few third-party integrations were implemented
