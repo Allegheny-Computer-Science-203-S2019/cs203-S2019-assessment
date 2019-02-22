@@ -105,7 +105,7 @@ when creating python programs.
   * N = No written code or monolithic code
   * I = Language constructs used inappropriately
   * A = Some language constructs used appropriately
-  * G = Most language constructs used efficiently
+  * G = Most language constructs used appropriately
   * E = All language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
@@ -119,13 +119,14 @@ when creating python programs.
   * E = Issue is unique, well described, and a possible reason for occurrence
     and solution is mentioned
 * Using the GitHub flow model
-  * N = GitHub flow model unused or no commits
-  * I = Pushed to master or non-descriptive commits
-  * A = Pushed to correct repository with descriptive commits
+  * N = GitHub flow model unused or no commits to the Github repository
+  * I = Pushed to master or non-descriptive commits to the Github repository
+  * A = Pushed to correct repository with descriptive commits to the Github
+  repository
   * G = Use of a branch/fork demonstrated appropriately
   (e.g having a feature branch) along with descriptive commits
   * E = Use of multiple useful branches/forks demonstrated appropriately
-    containing multiple coherent and descriptive commits
+    containing multiple consistent and descriptive commits
 * Creating and using a repository branch
   * N = Did not create or utilize branches
   * I = Create unclear branches
