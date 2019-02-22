@@ -152,7 +152,7 @@ when creating python programs.
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
   * G = Tags any related issues it is trying to close, describes most proposed changes,
-    may not pass Travis
+    discusses them with team but may not pass Travis
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
