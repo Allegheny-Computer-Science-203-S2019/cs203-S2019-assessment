@@ -360,14 +360,14 @@ when creating python programs.
   * I = Respects customer but fails to value their needs
   * A = Respects customer and takes their needs into consideration
   * G = Respects customer, incorporates many of their ideas, and communicates
-    difficulties
+    key product challenges
   * E = Respects customer, improves on their ideas, and engages in reasoned
     dialogue for further improvements
 * Interaction with the team leaders
   * N = Impolite and impatient
   * I = Polite, impatient, and does not respond to team leaders
   * A = Polite, patient, responsive to team leaders but does not clearly
-    communicates
+    communicate
   * G = Polite, patient, responsive to team leaders and clearly communicates
   * E = Polite, patient, responsive to team leaders, clearly communicates,
     and provides progress updates
