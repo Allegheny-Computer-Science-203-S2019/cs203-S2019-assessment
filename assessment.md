@@ -169,7 +169,7 @@ when creating python programs.
   * I = Sets up and configures Travis CI which performs no checks
   * A = Sets up and configures Travis CI without performing checks on less
     relevant project deliverables
-  * G = Sets up and configures Travis CI to perform checks on most relevant
+  * G = Sets up and configures Travis CI to perform checks on the most relevant
     project deliverables
   * E = Correctly sets up and configures Travis CI to perform relevant
     checks for all project deliverables
