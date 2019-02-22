@@ -285,8 +285,8 @@ when creating python programs.
     * A = Almost always adhering to model and never pushing to
       the master branch before code review
     * G = Making only minor mistakes while trying to follow the model
-    * E = Follows the GitFlow model while emerging as a leader who provides support to
-      others who may be struggling with project management
+    * E = Follows the GitFlow model while emerging as a leader who
+      provides support to others who may be struggling with project management
   * Continuous integration with Travis CI
     * N = Travis CI not integrated
     * I = Integrated, but failing the majority of checks
