@@ -304,7 +304,7 @@ when creating python programs.
   * N = Ignoring all red flags in the code
   * I = Identifying red flags in the code, but not fixing them
   * A = Identifying and fixing some red flags
-  * G = Identifying, understanding and fixing most red flags
+  * G = Identifying, understanding, and fixing most red flags
   * E = Identifying, understanding, and fixing all red flags with good documentation
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
@@ -313,28 +313,23 @@ when creating python programs.
   * A = An average amount of understanding and general identification and use of
     best practices
   * G = Above average demonstrations of understanding and the ability to find and
-    utilize best practices
-  * E = Full understanding of concepts, would also include the ability to determine
+    use best practices
+  * E = Full understanding of concepts, demonstrating the ability to determine
     which practices are better than others and then applying those practices
 
 ### Group
 
 * Communication
-  * N = Never checks appropriate slack channels and never communicates with
-    teammates
-  * I = Rarely checks appropriate slack channels and rarely communicates with
-    teammates
-  * A = Sometimes checks appropriate slack channels and sometimes communicates
-    with teammates
-  * G = Regularly checks appropriate slack channels and regularly communicates
-    with teammates
-  * E = Always checks appropriate slack channels and always communicates
-    effectively with teammates
+  * N = Never communicates with teammates
+  * I = Rarely communicates with teammates
+  * A = Sometimes communicates with teammates
+  * G = Regularly communicates with teammates
+  * E = Always communicates effectively with teammates
 * Participation
   * N = Never participates in group conversation or activity
   * I = Rarely participates in group conversation or activity
-  * A = Responds within 1-2 days to questions/comments
-  * G = Responds within a day to questions/comments
+  * A = Responds within daily to questions/comments
+  * G = Responds regularly to questions/comments
   * E = Respond regularly and quickly to questions/comments, and willing to meet
     outside of class if necessary
 * Decisions
