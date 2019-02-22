@@ -183,10 +183,10 @@ when creating python programs.
     and signed deliverables (e.g md5 hash)
 * Create third-party integrations with Travis CI (e.g., codecov.io)
   * N = No incorporation of third party integrations
-  * I = Third party integrations were only partially implemented
-  * A = A few third party integrations were implemented
-  * G = Most third party integrations were implemented
-  * E = Many useful and relevant third party integrations were implemented
+  * I = Third-party integrations were only partially implemented
+  * A = A few third-party integrations were implemented
+  * G = Most third-party integrations were implemented
+  * E = Many useful and relevant third-party integrations were implemented
 * Add README badges that show status of Travis CI builds
   * N = No addition of badges to the README
   * I = Badge added for Travis CI builds but does not work
