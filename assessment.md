@@ -181,7 +181,7 @@ when creating python programs.
   * G = Performs a release through Travis CI with signed commits
   * E = Performs a release through Travis CI with signed commits
     and signed deliverables (e.g md5 hash)
-* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io)
+* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io))
   * N = No incorporation of third party integrations
   * I = Third-party integrations were only partially implemented
   * A = A few third-party integrations were implemented
@@ -229,8 +229,7 @@ when creating python programs.
   * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution
-  looks
-    to be developed soon
+  looks to be developed soon
   * G = A software solution is created that includes both an algorithm design and
     a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
