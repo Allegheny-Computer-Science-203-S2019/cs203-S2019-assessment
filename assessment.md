@@ -105,7 +105,7 @@ when creating python programs.
   * N = No written code or monolithic code
   * I = Language constructs used inappropriately
   * A = Some language constructs used appropriately
-  * G = Most language constructs used efficiently
+  * G = Most language constructs used appropriately
   * E = All language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
@@ -119,56 +119,57 @@ when creating python programs.
   * E = Issue is unique, well described, and a possible reason for occurrence
     and solution is mentioned
 * Using the GitHub flow model
-  * N = GitHub flow model unused or no commits
-  * I = Pushed to master or non-descriptive commits
-  * A = Pushed to correct repository with descriptive commits
+  * N = GitHub flow model unused or no commits made to the GitHub
+  * I = Pushed to master or made non-descriptive commits
+  * A = Pushed to correct repository with descriptive commits to the Github
+  repository
   * G = Use of a branch/fork demonstrated appropriately
   (e.g having a feature branch) along with descriptive commits
   * E = Use of multiple useful branches/forks demonstrated appropriately
-    containing multiple coherent and descriptive commits
+    containing multiple consistent and descriptive commits
 * Creating and using a repository branch
   * N = Did not create or utilize branches
-  * I = Create unclear branches
-  * A = Create too many poorly named branches
-  * G = Create useful adequately named branches
-  * E = Create useful and descriptive branches
+  * I = Created unclear branches
+  * A = Created too many poorly named branches
+  * G = Created useful adequately named branches
+  * E = Created useful and descriptive branches
 * Creating and using a repository fork
   * N = Did not create or utilize forks
-  * I = Create unclear forks
-  * A = Create too many poorly named forks
-  * G = Create useful adequately named forks
-  * E = Create useful and descriptive forks
+  * I = Created unclear forks
+  * A = Created too many poorly named forks
+  * G = Created useful adequately named forks
+  * E = Created useful and descriptive forks
 * Merging a branch or a fork to another branch or fork
   * N = Not communicating changes before merging branches and forks
-  * I = Merging with minimal communication or merging faulty code
+  * I = Merging with minimal communication or merging defective code
   * A = Communicating changes with the team and reconciling differences
   * G = Merging branches after extensive communication
   * E = Merging branches with well-documented, detailed code and
-    extensive communication
+    extensive team communication
 * Creating and reviewing a pull request
-  * N = No PR made
+  * N = No PR or Pull Request made
   * I = Does not tag the related issues it is trying to close with poor description
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
   * G = Tags any related issues it is trying to close, describes most proposed changes,
-    discusses results of PR with Travis CI
+    and passes Travis CI
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
-  * N = Commit messages are nonsensical
+  * N = Commit messages do not make sense
   * I = Commit messages are uninformative
   * A = Commit messages are sensible but not descriptive
-  * G = Commit messages are both clear, and moderately descriptive
-  * E = Commit messages are clear, concise and descriptive
+  * G = Commit messages are clear, concise and moderately descriptive
+  * E = Commit messages are clear, concise, and descriptive
 
 ### Continuous Integration with Travis
 
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
   * I = Sets up and configures Travis CI which performs no checks
-  * A = Sets up and configures Travis CI without performing checks on less
+  * A = Sets up and configures Travis CI that performs checks on less
     relevant project deliverables
-  * G = Sets up and configures Travis CI to perform checks on most relevant
+  * G = Sets up and configures Travis CI to perform checks on the most relevant
     project deliverables
   * E = Correctly sets up and configures Travis CI to perform relevant
     checks for all project deliverables
@@ -180,12 +181,12 @@ when creating python programs.
   * G = Performs a release through Travis CI with signed commits
   * E = Performs a release through Travis CI with signed commits
     and signed deliverables (e.g md5 hash)
-* Create third-party integrations with Travis CI (e.g., codecov.io)
+* Create third-party integrations with Travis CI (e.g., [codecov](codecov.io))
   * N = No incorporation of third party integrations
-  * I = Third party integrations were only partially implemented
-  * A = A few third party integrations were implemented
-  * G = Most third party integrations were implemented
-  * E = Many useful and relevant third party integrations were implemented
+  * I = Third-party integrations were only partially implemented
+  * A = A few third-party integrations were implemented
+  * G = Most third-party integrations were implemented
+  * E = Many useful and relevant third-party integrations were implemented
 * Add README badges that show status of Travis CI builds
   * N = No addition of badges to the README
   * I = Badge added for Travis CI builds but does not work
@@ -202,31 +203,33 @@ when creating python programs.
   * A = A few status badges are in the README but are not in an
     appropriate location
   * G = Most relevant status badges are in the README and well located
-  * E = All relevant and many useful status badges are in the README and well located
+  * E = All relevant and many useful status badges are in the README and well
+  located
 
 ### Foundations of Software Engineering
 
 * Requirements engineering
-  * N = No effort to document, define, or maintain requirements present
+  * N = No effort to document, define, or maintain requirements present is
+  evident
   * I = Brief or unspecific documentation, definition, and maintenance given
   * A = Explains what requirements have been specified in enough detail
     to convey the most important information
-  * G = Documentation and definitions are well written and gives other team members
+  * G = Documentation and definitions are well written giving other team members
     an informed idea of the process
-  * E = The software engineer displayed highly detailed, elaborate, and complete
+  * E = Displayed highly detailed, elaborate, and complete
     documentation, definition, and maintenance in the given design process
 * Software architecture
   * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the system
-  * A = There is a blueprint for the software system that lacks completion
+  * A = There is a incomplete blueprint for the software system
   * G = There is a completed blueprint for the software system
   * E = There is a completed detailed blueprint for all elements of the software
     system including detailed documentation
 * Software design
   * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
-  * A = Some software design is visible to the point where a software solution looks
-    to be developed soon
+  * A = Some software design is visible to the point where a software solution
+  looks to be developed soon
   * G = A software solution is created that includes both an algorithm design and
     a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
