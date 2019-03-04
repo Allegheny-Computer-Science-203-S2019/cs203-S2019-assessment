@@ -147,7 +147,7 @@ when creating python programs.
   * E = Merging branches with well-documented, detailed code and
     extensive team communication
 * Creating and reviewing a pull request
-  * N = No PR(Pull Request) made
+  * N = No PR or Pull Request made
   * I = Does not tag the related issues it is trying to close with poor description
   * A = Tags any related issues it is trying to close, describes
     proposed changes by a person
