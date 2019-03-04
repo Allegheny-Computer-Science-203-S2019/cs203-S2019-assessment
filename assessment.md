@@ -221,7 +221,7 @@ when creating python programs.
 * Software architecture
   * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the system
-  * A = There is a blueprint for the software system that is not complete
+  * A = There is a incomplete blueprint for the software system
   * G = There is a completed blueprint for the software system
   * E = There is a completed detailed blueprint for all elements of the software
     system including detailed documentation
