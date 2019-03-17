@@ -285,22 +285,22 @@ when creating Python programs.
     * I = Occasional disregard for the model including at least one instance of
       pushing to the master branch
     * A = Almost always adhering to model and never pushing to
-      the master branch
+      the master branch before code review
     * G = Making only minor mistakes while trying to follow the model
-    * E = In addition to emerging as a leader who provides support to
-      others who may be struggling with project management
+    * E = Follows the GitFlow model while emerging as a leader who
+      provides support to others who may be struggling with project management
   * Continuous integration with Travis CI
     * N = Travis CI not integrated
     * I = Integrated, but failing the majority of checks
     * E = Integrated, passing all checks
   * Foundations of software engineering practices
-    * N = No effort demonstrated
-    * I = Minimal effort demonstrated, little communication with others
-    * A = Some effort and initiative demonstrated, participated in discussion
-    * G = Moderate effort and initiative demonstrated, consistently
-      participated in discussion
-    * E = Significant effort and initiative demonstrated, actively fosters
-      useful discussion
+    * N = No effort demonstrated to solve problems, document, or work with teams
+    * I = Little effort put into work, documentation, or working with teams
+    * A = Follows and works with team, and documents work well
+    * G = Follows the GitFlow model, works with team, documents work well, and
+      constantly seeks to help.
+    * E = Follows the GitFlow model, demonstrates use of formal problem solving,
+      management of software development, communication, and works well in groups.
 * Understanding and avoiding red flags like shallow modules,
   information leakage, and conjoined methods
   * N = Ignoring all red flags in the code
