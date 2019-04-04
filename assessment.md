@@ -65,7 +65,8 @@ when creating Python programs.
   * I = Used but did not participate on building any `pytest` plugins
   * A = Created a suite of `pytest` plugins
   * G = Created a suite of `pytest` plugins with test functions and documentations
-  * E = Created a production-quality suite of `pytest` plugins with test functions for it
+  * E = Created a production-quality suite of `pytest` plugins with test functions
+    for it
 * Calculating code coverage of a `pytest` test suite
   * N = Did not check code coverage
   * E = Checked code coverage with `pytest`
