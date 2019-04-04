@@ -1,4 +1,4 @@
-# Assessment for Team-Based Project Work
+participate# Assessment for Team-Based Project Work
 
 ## Assessment Key
 
@@ -57,6 +57,15 @@ when creating Python programs.
   * A = Created few test cases
   * G = Created thorough test cases
   * E = Created thorough and documented test cases
+* Testing Python programs with `fixture` or `parameterized` test
+  * N = Did not use `fixture` or `parameterized` test
+  * E = Experienced using `fixture` or `parameterized` test in `pytest`
+* Using customized `pytest` plugins to test Python programs
+  * N = Did not use any `pytest` plugin
+  * I = Used but did not participate on building any `pytest` plugins
+  * A = Created a suite of `pytest` plugins
+  * G = Created a suite of `pytest` plugins with test functions and documentations
+  * E = Created a production-quality suite of `pytest` plugins with test functions for it
 * Calculating code coverage of a `pytest` test suite
   * N = Did not check code coverage
   * E = Checked code coverage with `pytest`
